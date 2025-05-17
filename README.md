@@ -1,14 +1,3 @@
-<!-- 1. Banner Resmi -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/delfinolmez/delfinolmez/main/assets/banner.png" alt="Banner" width="100%">
-</p>
-
-<!-- 2. Profil Fotoğrafı -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/delfinolmez/delfinolmez/main/assets/profil.png" width="150" alt="Profil Fotoğrafı" style="border-radius: 50%;">
-</p>
-
-<!-- 3. Hakkımda Bölümü -->
 <h2 align="center">Merhaba 👋 Ben Delfin</h2>
 
 <p align="center">
@@ -21,8 +10,7 @@
 
 ---
 
-<!-- 4. Kullandığım Teknolojiler -->
-<h3 align="center">Kullandığım Teknolojiler</h3>
+<h3 align="center">🛠️ Kullandığım Teknolojiler</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -35,15 +23,6 @@
 
 ---
 
-<!-- 5. GitHub İstatistikleri -->
-<h3 align="center">📊 GitHub İstatistiklerim</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delfinolmez&show_icons=true&theme=radical" />
-</p>
-
----
-
-<!-- İletişim -->
 <h3 align="center">📫 Bana Ulaş</h3>
 <p align="center">
   <a href="mailto:ornekmail@gmail.com">📧 Mail</a> • 
