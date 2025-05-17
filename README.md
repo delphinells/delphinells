@@ -5,7 +5,7 @@
   CapCut ile içerik üretimi, Flutter ile mobil uygulama geliştirme ve .NET ile web projeleri oluşturuyorum.  
   <br><br>
   🎹 Boş zamanlarımda piyano çalıyorum.  
-  🇩🇪 Almanca öğrenmeye çalışıyorum.  
+  🇩🇪 Almanca öğrenmeye çalışıyorum.Öğreneceğime inanıyorum. :)  
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 <h3 align="center">📫 Bana Ulaş</h3>
 <p align="center">
-  <a href="mailto:ornekmail@gmail.com">📧 Mail</a> • 
+  <a href="mailto:delfinolmez@hotmail.com">📧 Mail</a> • 
   <a href="https://linkedin.com/in/delfinolmez">💼 LinkedIn</a> • 
   <a href="https://github.com/delfinolmez">💻 GitHub</a>
 </p>
