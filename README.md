@@ -9,7 +9,7 @@
 <p align="center">
   🎹 Boş zamanlarımda piyano çalıyorum <br>
   🇩🇪 Almanca öğreniyorum <br>
-  Film izlemek🎬 ve Mühendisliğim gereğince yeni fikirler üretmek benim ilham kaynağım.
+  🍿 Film izlemek🎬 ve Mühendisliğim gereğince yeni fikirler üretmek benim ilham kaynağım.
 </p>
 
 ---
@@ -59,3 +59,13 @@
 </p>
 
 <p align="center"><em>“Her satır bir sahne, her proje bir film.” 🎞️</em></p>
+
+---
+
+<h2 align="center">📄 Özgeçmiş (CV)</h2>
+
+<p align="center">
+  <a href="https://github.com/delfinolmez/delfinolmez/blob/main/olmez%20cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-CV’mi İnceleyin-6d6d6d?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
