@@ -62,10 +62,3 @@
 
 ---
 
-<h2 align="center">📄 Özgeçmiş (CV)</h2>
-
-<p align="center">
-  <a href="https://github.com/delfinolmez/delfinolmez/blob/main/olmez%20cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-CV’mi İnceleyin-6d6d6d?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
